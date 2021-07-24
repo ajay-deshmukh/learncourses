@@ -1,4 +1,4 @@
-## I learn some courses online while lockdown in 2020
+## Learn courses while lockdown in 2020
 ( Self-paced learn and completing the course, it provided by credits as license/certificate which <i>doesn't expire</i> )
 
 ### [Google IT Supprt](https://www.coursera.org/professional-certificates/google-it-support)
